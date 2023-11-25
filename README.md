@@ -1,5 +1,3 @@
-# Speech_Emotion_Detection
-
 # Speech Emotion Recognition
 
 ## Overview

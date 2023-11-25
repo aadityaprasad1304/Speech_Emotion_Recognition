@@ -20,12 +20,12 @@ To run this project, you need to install the following dependencies:
 - pyaudio
 - speech_recognition
 
-##Live Audio Testing
+## Live Audio Testing
 The project includes functionality to capture live audio, transcribe it to text, and predict the emotion using the trained model.
 Adjust the audio capture parameters in the code if necessary.
 The predicted emotion will be displayed in the console.
 
 
-##Contributors
+## Contributors
 Aditya Prasad
 Tejasv Rastogi
